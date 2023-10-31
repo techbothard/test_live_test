@@ -65,3 +65,5 @@ class _FavoriteViewState extends State<FavoriteView> {
     );
   }
 }
+
+class add {}
